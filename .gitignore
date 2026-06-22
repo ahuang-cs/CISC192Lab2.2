@@ -1,0 +1,7 @@
+main
+test_receipt
+build
+*.o
+*.out
+.vscode
+.idea
